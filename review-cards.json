@@ -1,0 +1,38 @@
+[
+  {
+    "description": "El lobo estepario",
+    "icon": "pen-to-square",
+    "image": "/img/books/lobo-estepario.webp",
+    "route": "/reviews/1"
+  },
+  {
+    "description": "El Aleph",
+    "icon": "pen-to-square",
+    "image": "/img/books/el-aleph.webp",
+    "route": "/reviews/2"
+  },
+  {
+    "description": "El extranjero",
+    "icon": "pen-to-square",
+    "image": "/img/books/el-extranjero.webp",
+    "route": "/reviews/3"
+  },
+  {
+    "description": "La metamorfosis",
+    "icon": "pen-to-square",
+    "image": "/img/books/la-metamorfosis.webp",
+    "route": "/reviews/4"
+  },
+  {
+    "description": "Cien años de soledad",
+    "icon": "pen-to-square",
+    "image": "/img/books/cien-anos-soledad.webp",
+    "route": "/reviews/5"
+  },
+  {
+    "description": "Rayuela",
+    "icon": "pen-to-square",
+    "image": "/img/books/rayuela.webp",
+    "route": "/reviews/6"
+  }
+]
