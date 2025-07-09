@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "book": {
+      "title": "El lobo estepario",
+      "author": "Herman Hesse",
+      "year": 1927,
+      "image": "/img/books/lobo-estepario.webp"
+    },
+    "rating": 4,
+    "comment": "\"El lobo estepario\" es una novela que explora la dualidad del ser humano, la lucha interna entre su naturaleza salvaje y su deseo de integrarse en la sociedad...",
+    "comments": [
+      {
+        "user": "Juan Pérez",
+        "comment": "Me encantó este libro, muy profundo y reflexivo.",
+        "date": "2025-02-08"
+      },
+      {
+        "user": "Maria González",
+        "comment": "La manera en que Hesse describe la soledad me llegó mucho.",
+        "date": "2025-02-02"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "book": {
+      "title": "El Aleph",
+      "author": "Jorge Luis Borges",
+      "year": 1949,
+      "image": "/img/books/el-aleph.webp"
+    },
+    "rating": 5,
+    "comment": "\"El Aleph\" es un cuento que nos introduce a un punto en el espacio que contiene todos los puntos del universo simultáneamente...",
+    "comments": [
+      {
+        "user": "Pedro Rodríguez",
+        "comment": "Este cuento de Borges me fascinó, especialmente la idea del infinito en un solo punto.",
+        "date": "2025-03-11"
+      },
+      {
+        "user": "Ana Morales",
+        "comment": "Borges logra que te pierdas en la complejidad de la memoria y el universo con este relato.",
+        "date": "2025-02-20"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "book": {
+      "title": "El extranjero",
+      "author": "Albert Camus",
+      "year": 1942,
+      "image": "/img/books/el-extranjero.webp"
+    },
+    "rating": 4,
+    "comment": "\"El Extranjero\" es una novela que aborda el absurdo de la existencia y la indiferencia del mundo hacia el ser humano...",
+    "comments": [
+      {
+        "user": "Luis Rodríguez",
+        "comment": "Me encantó este libro, muy profundo y reflexivo.",
+        "date": "2025-04-10"
+      },
+      {
+        "user": "Sara González",
+        "comment": "La manera en que Camus describe la indiferencia hacia el mundo me llegó mucho.",
+        "date": "2025-03-01"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "book": {
+      "title": "La metamorfosis",
+      "author": "Franz Kafka",
+      "year": 1915,
+      "image": "/img/books/la-metamorfosis.webp"
+    },
+    "rating": 4,
+    "comment": "\"La metamorfosis\" es una poderosa alegoría sobre la alienación, la identidad y la deshumanización...",
+    "comments": [
+      {
+        "user": "Felipe Torres",
+        "comment": "La transformación de Gregor me pareció perturbadora pero profundamente simbólica.",
+        "date": "2025-05-10"
+      },
+      {
+        "user": "Myriam Guerra",
+        "comment": "La manera en que Kafka describe la deshumanización me llegó mucho.",
+        "date": "2025-04-01"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "book": {
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "image": "/img/books/cien-anos-soledad.webp"
+    },
+    "rating": 5,
+    "comment": "Una obra maestra del realismo mágico que narra la historia de la familia Buendía en el mítico pueblo de Macondo.",
+    "comments": [
+      {
+        "user": "Lucía Bravo",
+        "comment": "Un viaje maravilloso por generaciones llenas de magia y tragedia.",
+        "date": "2025-06-15"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "book": {
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "year": 1963,
+      "image": "/img/books/rayuela.webp"
+    },
+    "rating": 4,
+    "comment": "Una novela experimental que rompe las estructuras tradicionales, invitando al lector a construir su propia historia.",
+    "comments": [
+      {
+        "user": "Carlos Méndez",
+        "comment": "Rayuela me hizo cuestionar todo lo que creía sobre la narrativa.",
+        "date": "2025-07-01"
+      },
+      {
+        "user": "Elena Ramírez",
+        "comment": "Difícil al principio, pero una experiencia inolvidable.",
+        "date": "2025-07-03"
+      }
+    ]
+  }
+]
