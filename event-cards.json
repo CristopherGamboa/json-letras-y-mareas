@@ -1,5 +1,17 @@
 [
   {
+    "description": "Visita Alvaro Matus",
+    "icon": "instagram",
+    "image": "/img/events/alvaro-matus.jpg",
+    "url": "https://www.instagram.com/p/DL2XHXJMvX9"
+  },
+  {
+    "description": "Visita Carlos Madrigal",
+    "icon": "instagram",
+    "image": "/img/events/carlos-madrigal.jpg",
+    "url": "https://www.instagram.com/p/DKsLVcxvBNB"
+  },
+  {
     "description": "Concurso de microcuentos",
     "icon": "instagram",
     "image": "/img/events/afiche-concurso-microcuentos.webp",
